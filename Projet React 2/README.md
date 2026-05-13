@@ -121,10 +121,7 @@ Les tâches sont sauvegardées dans le **localStorage**.
 
 ## 👨‍💻 Auteur
 
-Projet réalisé dans un cadre pédagogique (BTS SIO / Frontend React).
+LIBIZANGOMO Stephen 
 
 ---
 
-## 📌 Aperçu
-
-Une application simple, rapide et responsive pour gérer ses tâches quotidiennes sans backend.
